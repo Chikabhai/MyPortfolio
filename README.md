@@ -1,4 +1,4 @@
-# MyPortfolio Portfolio
+# cd ~/portfolio/MyPortfolio Portfolio
 
 ## Termux & GitHub Automation
 - gpush, epush, spush functions
